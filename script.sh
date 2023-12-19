@@ -1,3 +1,3 @@
 #!/bin/bash
 #
-#echo "Linux Version1"
+echo "Linux Version1"
